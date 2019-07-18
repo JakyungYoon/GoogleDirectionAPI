@@ -1,0 +1,6 @@
+module Pods_OnTheRightTime {
+  umbrella header "Pods-OnTheRightTime-umbrella.h"
+
+  export *
+  module * { export * }
+}

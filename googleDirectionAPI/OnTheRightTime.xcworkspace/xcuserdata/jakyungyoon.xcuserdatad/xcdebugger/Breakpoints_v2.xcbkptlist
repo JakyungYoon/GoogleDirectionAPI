@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnTheRightTime/AppDelegate.swift"
+            timestampString = "585119039.111854"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnTheRightTime/AppDelegate.swift"
+            timestampString = "585119039.111914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnTheRightTime.AppDelegate.__allocating_init() -&gt; OnTheRightTime.AppDelegate"
+                  moduleName = "OnTheRightTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakyungyoon/Desktop/workspace/OnTheRightTime/OnTheRightTime/AppDelegate.swift"
+                  timestampString = "585067957.214098"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnTheRightTime.AppDelegate.init() -&gt; OnTheRightTime.AppDelegate"
+                  moduleName = "OnTheRightTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakyungyoon/Desktop/workspace/OnTheRightTime/OnTheRightTime/AppDelegate.swift"
+                  timestampString = "585067957.215538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnTheRightTime.AppDelegate.__deallocating_deinit"
+                  moduleName = "OnTheRightTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakyungyoon/Desktop/workspace/OnTheRightTime/OnTheRightTime/AppDelegate.swift"
+                  timestampString = "585067957.216868"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "OnTheRightTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakyungyoon/Desktop/workspace/OnTheRightTime/OnTheRightTime/AppDelegate.swift"
+                  timestampString = "585067957.218298"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnTheRightTime/AppDelegate.swift"
+            timestampString = "585119039.111959"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnTheRightTime.AppDelegate.__allocating_init() -&gt; OnTheRightTime.AppDelegate"
+                  moduleName = "OnTheRightTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakyungyoon/Desktop/workspace/OnTheRightTime/OnTheRightTime/AppDelegate.swift"
+                  timestampString = "585067957.759789"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnTheRightTime.AppDelegate.init() -&gt; OnTheRightTime.AppDelegate"
+                  moduleName = "OnTheRightTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakyungyoon/Desktop/workspace/OnTheRightTime/OnTheRightTime/AppDelegate.swift"
+                  timestampString = "585067957.761609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnTheRightTime.AppDelegate.__deallocating_deinit"
+                  moduleName = "OnTheRightTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakyungyoon/Desktop/workspace/OnTheRightTime/OnTheRightTime/AppDelegate.swift"
+                  timestampString = "585067957.763442"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "OnTheRightTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakyungyoon/Desktop/workspace/OnTheRightTime/OnTheRightTime/AppDelegate.swift"
+                  timestampString = "585067957.7649471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnTheRightTime/ViewController.swift"
+            timestampString = "585119039.112002"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "drawPath(startLocation:endLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
